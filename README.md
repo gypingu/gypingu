@@ -1,6 +1,7 @@
-Hi, I'm Gayatri student + artist in Singapore. 
+# Hi there! 🐱
+I'm Gayatri a student + artist in Singapore. 
 
-I’m currently getting through school and I'm just interested in art and tech 🌱
+I’m currently getting through school and I'm interested in art and tech 🌱
 <br></br>
 
 <img src="https://skillicons.dev/icons?i=python,css,javascript,github" /> <br></br>
